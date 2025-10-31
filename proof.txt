@@ -1,2 +1,3 @@
 hello guild quest
 guild retry
+force guild check
